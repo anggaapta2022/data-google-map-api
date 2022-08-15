@@ -1,0 +1,260 @@
+{
+  "html_attributions": [],
+  "result": {
+    "address_components": [{
+        "long_name": "No.20",
+        "short_name": "No.20",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Jalan Sugiyopranoto",
+        "short_name": "Jl. Sugiyopranoto",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Kampung Baru",
+        "short_name": "Kp. Baru",
+        "types": [
+          "administrative_area_level_4",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Kecamatan Pasar Kliwon",
+        "short_name": "Kec. Ps. Kliwon",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Kota Surakarta",
+        "short_name": "Kota Surakarta",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Jawa Tengah",
+        "short_name": "Jawa Tengah",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Indonesia",
+        "short_name": "ID",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "57111",
+        "short_name": "57111",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">Jl. Sugiyopranoto No.20</span>, <span class=\"extended-address\">Kp. Baru, Kec. Ps. Kliwon</span>, <span class=\"locality\">Kota Surakarta</span>, <span class=\"region\">Jawa Tengah</span> <span class=\"postal-code\">57111</span>, <span class=\"country-name\">Indonesia</span>",
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Jl. Sugiyopranoto No.20, Kp. Baru, Kec. Ps. Kliwon, Kota Surakarta, Jawa Tengah 57111, Indonesia",
+    "formatted_phone_number": "(0271) 646356",
+    "geometry": {
+      "location": {
+        "lat": -7.566895,
+        "lng": 110.826913
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -7.565575199999999,
+          "lng": 110.8280233802915
+        },
+        "southwest": {
+          "lat": -7.568310400000001,
+          "lng": 110.8253254197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "international_phone_number": "+62 271 646356",
+    "name": "Kusuma Sahid Prince Hotel",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [{
+        "open": {
+          "day": 0,
+          "time": "0000"
+        }
+      }],
+      "weekday_text": [
+        "Senin: Buka 24 jam",
+        "Selasa: Buka 24 jam",
+        "Rabu: Buka 24 jam",
+        "Kamis: Buka 24 jam",
+        "Jumat: Buka 24 jam",
+        "Sabtu: Buka 24 jam",
+        "Minggu: Buka 24 jam"
+      ]
+    },
+    "photos": [{
+        "height": 1407,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102645638593670038022\">Anjaz Aninditio</a>"
+        ],
+        "photo_reference": "AeJbb3cBlBPksFtzQI384sURz2EpMXWJ_xond8JQDRg-FoggQSSHimfNdAEVaAk30QuD828baITZ9tOrkONRRnPlfh57_A-cfLxikrBRX2swByZemBFNF5Gosz1n0gi5A1s15i069kWbLkb39fOSBa5Kzu7EaiLDLxYytTTg0SpFTLfSopzu",
+        "width": 2500
+      },
+      {
+        "height": 1407,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102645638593670038022\">Anjaz Aninditio</a>"
+        ],
+        "photo_reference": "AeJbb3cfqP0IGDER4p5bqbqSLbXKiA-iJ4TKO9AxCoHzRVgq4hKHtr0TMt3vOaD-Z7qBR9ZspQ_PzVXNqEX4Odl-jwqC2x2PigvUS9WcXn09PHPYuuM2Jag9g8EzAGfLEvRxI0CmxSiljyNuNdxavClxwUSh0dPKmRdnxGfqaVzR2s_QjYjQ",
+        "width": 2500
+      },
+      {
+        "height": 9248,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116177220475158851126\">Rico Andriyanto</a>"
+        ],
+        "photo_reference": "AeJbb3c4-3yRbU9ofKzccxu02CRniJPLtlbb95l_tREVXOSfH9b-pNOhu-PCxsDpUsxJcMOUzUuZIewggUd3Tpjdvdc0k8ODdjA7zlaYvuH_RuEILEurXJ2oQEeMOgiy1dFtu6HWkOWH13GZ46QtudEL_9ohmsN_G6HoakuBO8nDvv7m8LhR",
+        "width": 6936
+      },
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101858220366264684093\">Agus Sugiarto</a>"
+        ],
+        "photo_reference": "AeJbb3fD0rBtMZSuv1BcDbG4Nuc2Z-UEFL4QVo8jmDot31z32Wjab-pnHu8Hn0aGSNPxISnpeQzJ8xyIVPI4Onj36F1Ojr8a6vPjBU6XsbHVjPe8i9mtB8-NWGNNSaDSABf7d80JNu8I_J8470kyppCXBxEG99EOZ70ct0ki2SZS8IjtCs0g",
+        "width": 4160
+      },
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112717272114874668701\">kombor yan</a>"
+        ],
+        "photo_reference": "AeJbb3flFjLzScpls5u26JZ2R9D0ASWn8gsA4wkMm1IZbLnKXGzvJI9aj05PLj1dJ9IiBwlR_godjljIs2yAZdXCieWYplUTaifwGevOPsMkH4pCxhEaIRpSVpPweAQdlNK9bBGCRUiro7jU4T5nHtHYbQotNaAAgzFQTa5F8iEsHVpAwg29",
+        "width": 4160
+      },
+      {
+        "height": 407,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100976240220261213092\">Annisaa Udiyah</a>"
+        ],
+        "photo_reference": "AeJbb3dkvFrbsXcEIkolB-KrZ5Bjo_sIYPwY3mYGzx1jZW0aGYWtzJHK_Jl71CWyGL_caQzimDpKVczmr9zvSiSng5z-sDwHPZHlUhNNtfSaNDF7x7JdnrWl2dTqL0MNcY5NNgh9ELpg0lTYK3iS20ISaMybSs7z2Kwqgh3_mtdx-K7vwRBv",
+        "width": 720
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116605306620557968772\">faizal perdana</a>"
+        ],
+        "photo_reference": "AeJbb3eJbnJkdG-368M8cE3sFFJkswM5KpvqLDUW2Cy1nd_Id7DU4FY4LUS3-EGbzHXt1ajYvyzHY5ODzWH5TW6r1xwCsBL2-OiOZOH7B--zlhjCf3CPxyKWYzxpIXo8uIBzx_xXn78YNpYsb3XmgtLX31CkmLCXJJA7nIgU0aLtM0vNlR6_",
+        "width": 3000
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114775371548048759787\">lukito dwi yuono</a>"
+        ],
+        "photo_reference": "AeJbb3czAqXQ0MPXylJAoW1fBh2yEF_gwGMUDqLwRW74QzEEy8akUyMV-Wu3g3pGOoEBrA4pcjSeyS2oYIQU6BhGcSbF5p-4tAwdTjdGdzSgk6KUTili7qQK67bbmYt3nZ-4uj1hy_LcUN9lByr5zKUk9sHrCVn59JIMhCcdf--RVN86DCWx",
+        "width": 3024
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112442158165752294452\">joema 08</a>"
+        ],
+        "photo_reference": "AeJbb3cyubL9OPnywuS85GHJxuuESF5E6k2L7lgih3qZTzc2-MJRbmM0wLS3jUB_DX5IR3v-8w_yPHA_u3h7ZfeyRTQJzNJz0-v0RIy0thbpP4zrx6eDmwBl19X1RbHcG4LNi_IjkTkL9A473xnoFpdwbPxzfCd_yjZMsOf3iAvoQtl9KUiN",
+        "width": 1920
+      },
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111785717723960083315\">Katiman Najib</a>"
+        ],
+        "photo_reference": "AeJbb3eVO-thapSWZUyko5Qj3QCYbN8KL_l2KpSDy6Ht6yPgZJ0J5ku1p5YNkeWXmJV9OETltSSbSIiDBVZnACfpIuuoQQ22GT2qQ13Q2OxvHf4uNds0JRlgh0b9Ci9GBn4HBajxyrdMHAF7eo8zrD4H_Y5xEJwefHOgyrj5ApePQ2LjqGEW",
+        "width": 4160
+      }
+    ],
+    "place_id": "ChIJx541cGEWei4Rpuc3nxG7h7s",
+    "plus_code": {
+      "compound_code": "CRMG+6Q Kampung Baru, Kota Surakarta, Jawa Tengah, Indonesia",
+      "global_code": "6P4GCRMG+6Q"
+    },
+    "rating": 4.3,
+    "reference": "ChIJx541cGEWei4Rpuc3nxG7h7s",
+    "reviews": [{
+        "author_name": "Sekar Anggrek Solo",
+        "author_url": "https://www.google.com/maps/contrib/103420779716512901919/reviews",
+        "language": "id",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/AFdZucoaec70nmiVkpeeEMcBMqjnqzuWag429F6Kcj9Kzg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "seminggu yang lalu",
+        "text": "Tempatnya klasik jawa. Ada kolam renangnya. Ada kamar yg luas dan bergaya klasik. Perabotan masih asli kuno. Bisa unt acara kecil dg 300 org. Di sediakan ruang make up. Parkir luas. Banyak pohon sehingga terasa sejuk.",
+        "time": 1659874661
+      },
+      {
+        "author_name": "Brian Setiady",
+        "author_url": "https://www.google.com/maps/contrib/105098614989220471197/reviews",
+        "language": "id",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/AFdZucrFskcxmrfirf6_Vj79F6YLC5ZL4vryRXNZMhqnLw=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "dalam minggu terakhir",
+        "text": "Secara suasana sebenarnya bagus terasa damai dan tenang, belum lagi bangunan tengahnya yang memiliki nilai sejarah yang tinggi. Perlu dibenahi beberapa hal yang kurang terawat.",
+        "time": 1660208234
+      },
+      {
+        "author_name": "Ibnu Danar",
+        "author_url": "https://www.google.com/maps/contrib/114007420432329563965/reviews",
+        "language": "id",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/AFdZucqowAXcMghEdnEmvrViinZJ4kFvEMdCbmkdlx-mxD8=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "setahun yang lalu",
+        "text": "Best hotel",
+        "time": 1599969660
+      },
+      {
+        "author_name": "Giman Adityo",
+        "author_url": "https://www.google.com/maps/contrib/109822562106045570866/reviews",
+        "language": "id",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/AFdZucqox55SOpjrbP0aDVVT0j3igSa9HBKaUH_DUdZhJQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "setahun yang lalu",
+        "text": "Belom jadi kesana",
+        "time": 1598990748
+      },
+      {
+        "author_name": "Bambang Mursito",
+        "author_url": "https://www.google.com/maps/contrib/110594000622692076866/reviews",
+        "language": "id",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/AItbvmkZqs4kb55zx96zRgtM0V95xrPxwFdJ9xVn_JkW=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "sebulan yang lalu",
+        "text": "Semua bagus tentang: kamar, pelayanan, tempat parkir luas, lukasi ditengah kota tapi tersendiri sangat representatif buat penginapan, pertemuan, pernikahan.",
+        "time": 1657436335
+      }
+    ],
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13512974891308541862",
+    "user_ratings_total": 2529,
+    "utc_offset": 420,
+    "vicinity": "Jalan Sugiyopranoto No.20, Kampung Baru",
+    "website": "https://sahidhotels.com/kusuma-sahid-prince-solo/"
+  },
+  "status": "OK"
+}

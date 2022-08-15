@@ -1,0 +1,887 @@
+{
+  "html_attributions": [],
+  "next_page_token": "AeJbb3ddP9aDscFvTNvzGV-5fTIPk_4uiyqJCEvNG8ilm........",
+  "results": [{
+      "geometry": {
+        "location": {
+          "lat": -6.2087634,
+          "lng": 106.845599
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.088659925516643,
+            "lng": 106.9728249543398
+          },
+          "southwest": {
+            "lat": -6.370833074237714,
+            "lng": 106.686211012523
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Jakarta",
+      "photos": [{
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115274238085568867181\">Mursidin Almursyi</a>"
+        ],
+        "photo_reference": "AeJbb3e85sdDOxI_NldnVkR0PWdC0chnY3haTxDihPfAK-gewDTNxBsfltf7CMyUeaiLFvUZhzpggAWCi5hyDXliYTSGf1g-GvsOkwBjsflt-s-bFkiHwKEd80BhqAxND5dxeRrlqjuYURd2dJT7DcJBmyInkuDcPQ9y3AUaUuqUUQAxcRJD",
+        "width": 3264
+      }],
+      "place_id": "ChIJnUvjRenzaS4RoobX2g-_cVM",
+      "reference": "ChIJnUvjRenzaS4RoobX2g-_cVM",
+      "scope": "GOOGLE",
+      "types": [
+        "colloquial_area",
+        "locality",
+        "political"
+      ],
+      "vicinity": "Jakarta"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -6.306531499999999,
+          "lng": 106.8414153
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.305192319708498,
+            "lng": 106.8427123802915
+          },
+          "southwest": {
+            "lat": -6.307890280291502,
+            "lng": 106.8400144197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Citra Nusantara Transport",
+      "place_id": "ChIJneBT0_LtaS4RKgkXfa-NTsc",
+      "plus_code": {
+        "compound_code": "MRVR+9H Tanjung Barat, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta, Indonesia",
+        "global_code": "6P58MRVR+9H"
+      },
+      "reference": "ChIJneBT0_LtaS4RKgkXfa-NTsc",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "Gg Lanar 39-B RT 001%2F06 Tanjung Barat Pasar Minggu Jakarta Selatan DKI Jakarta, RT.2/RW.1, Tanjung Barat"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -6.3148,
+          "lng": 106.83508
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.313516119708498,
+            "lng": 106.8364154302915
+          },
+          "southwest": {
+            "lat": -6.316214080291503,
+            "lng": 106.8337174697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "SMK Lenteng Agung Jkt",
+      "place_id": "ChIJm50_WuntaS4RcwD55CNyink",
+      "plus_code": {
+        "compound_code": "MRPP+32 Kebagusan, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta, Indonesia",
+        "global_code": "6P58MRPP+32"
+      },
+      "rating": 4.4,
+      "reference": "ChIJm50_WuntaS4RcwD55CNyink",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 5,
+      "vicinity": "JL LENTENG AGUNG GG MASJID Blok Masjid No.33, Kebagusan"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -6.305096599999999,
+          "lng": 106.8434143
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.303768169708498,
+            "lng": 106.8448605302915
+          },
+          "southwest": {
+            "lat": -6.306466130291501,
+            "lng": 106.8421625697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_islam_pinlet",
+      "name": "Masjid Jami' Al-Murtadho",
+      "photos": [{
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112734373693592368998\">AfInaSma</a>"
+        ],
+        "photo_reference": "AeJbb3c702b7rfqF95B-A1bkXJQtrNy9TcK5kRX2BXH6Z7roST4jKZVYQSO_dhmZ5uceXi6NmIUig-vyowxCfadAujPWRwKcOLrceIUgtDHJEtInIr4Tm3b9BvEmYWZ8zuRe7KmlsA412lAosn7-l7uzaEzxXf_kMyJr-9gMvMyJRqvFt0mw",
+        "width": 4608
+      }],
+      "place_id": "ChIJ70RU7IztaS4Rh61K8qtj5K0",
+      "plus_code": {
+        "compound_code": "MRVV+X9 Tanjung Barat, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta, Indonesia",
+        "global_code": "6P58MRVV+X9"
+      },
+      "rating": 4.8,
+      "reference": "ChIJ70RU7IztaS4Rh61K8qtj5K0",
+      "scope": "GOOGLE",
+      "types": [
+        "mosque",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1056,
+      "vicinity": "1, RT.1/RW.1, Tanjung Barat"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -6.311077099999999,
+          "lng": 106.8315628
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.309740769708498,
+            "lng": 106.8329094802915
+          },
+          "southwest": {
+            "lat": -6.312438730291502,
+            "lng": 106.8302115197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Jakarta Paintball (Office)",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [{
+        "height": 2304,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102833924434283740961\">camel ONTA</a>"
+        ],
+        "photo_reference": "AeJbb3eOdo6Df8rkdwVmlu5QiKbyHLKY3S9WbRUospuCJycDPh0FqyjNDt-PeQbku2bmVAYhM8CVuxJwjZTUi79_NcF7hKXlnyQ5hFeBfRTirZf6OF1QHfzMIp1zo00r5s5TediKjhQoe90UiJEaerx5Pu5PtrRiSXfDHSZUqt81wLnB9RYI",
+        "width": 4096
+      }],
+      "place_id": "ChIJG4ok9fDtaS4R3ZK3WjO0Pzw",
+      "rating": 4.7,
+      "reference": "ChIJG4ok9fDtaS4R3ZK3WjO0Pzw",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "MRQJ+HJ8, Jalan Kebagusan III RT.6/RW.6, Kebagusan"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -6.3017661,
+          "lng": 106.8336742
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.300519119708499,
+            "lng": 106.8349849302915
+          },
+          "southwest": {
+            "lat": -6.303217080291503,
+            "lng": 106.8322869697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+      "name": "Bank Panin",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [{
+        "height": 4128,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104403033652024706088\">sukarti wulansari</a>"
+        ],
+        "photo_reference": "AeJbb3eZFwtJSLWnRdMRCefKC7c5Jdkm83htfdoGgaWKa2xuoPFz2VvjdRKzhdrcLJm-oWrZ0MXISNKbOujnWTIhmlMz4oIwy4BPHtgREkzKyVgoHlxJGmKU8gbOS1lWjfBmsNEJT6RKHsL3Lhm_za1_C2RF3WLuLH_L-DV7lK8wpT0eLOJj",
+        "width": 3096
+      }],
+      "place_id": "ChIJA8XyVvbtaS4RzmlgfmGvIE8",
+      "rating": 3.4,
+      "reference": "ChIJA8XyVvbtaS4RzmlgfmGvIE8",
+      "scope": "GOOGLE",
+      "types": [
+        "bank",
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 5,
+      "vicinity": "MRXM+7FV, Perkantoran Hijau Arkadia, Jalan TB Simatupang RT.1/RW.1, Kebagusan"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -6.308576200000001,
+          "lng": 106.8394796
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.307215919708498,
+            "lng": 106.8407601302915
+          },
+          "southwest": {
+            "lat": -6.309913880291503,
+            "lng": 106.8380621697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "PT. Sarandi Karya Nugraha",
+      "place_id": "ChIJwUyQdpDtaS4RCtHKHJ8Yzpc",
+      "plus_code": {
+        "compound_code": "MRRQ+HQ Tanjung Barat, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta, Indonesia",
+        "global_code": "6P58MRRQ+HQ"
+      },
+      "rating": 5,
+      "reference": "ChIJwUyQdpDtaS4RCtHKHJ8Yzpc",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "Ruko Tanjung Mas, Jl. Komp. Tanjung Mas Raya B1/31, Tanjung Barat, RT.2/RW.1, Tanjung Barat"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -6.302106999999999,
+          "lng": 106.8341689
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.300785869708498,
+            "lng": 106.8355963302915
+          },
+          "southwest": {
+            "lat": -6.303483830291502,
+            "lng": 106.8328983697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "PT. Prysmian Cables Indonesia",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJKTz1NKv2aS4RCV_vPEV3jz8",
+      "plus_code": {
+        "compound_code": "MRXM+5M Kebagusan, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta, Indonesia",
+        "global_code": "6P58MRXM+5M"
+      },
+      "rating": 5,
+      "reference": "ChIJKTz1NKv2aS4RCV_vPEV3jz8",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4,
+      "vicinity": "Jl. TB Simatupang Kav.88, Perkantoran Hijau Arkadia, Tower F, 7 Floor, suite 701, Jakarta, RT.1/RW.2, Kebagusan"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -6.302509800000001,
+          "lng": 106.8363734
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.301142919708498,
+            "lng": 106.8378635302915
+          },
+          "southwest": {
+            "lat": -6.303840880291503,
+            "lng": 106.8351655697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Agrakom",
+      "photos": [{
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112448887314200951967\">Tri Sapta Mw</a>"
+        ],
+        "photo_reference": "AeJbb3ddQnNHwaA_rZC2ICn4nWaRZYMrbdlNaGmRoV2ZSK1fPy-9_KXN8uwK_C9MlJZ_Am8720OA806bwohSidBSoeUN_TVBh0OmovpnK_UZHMM3PYO9GeayKTNct-GlUUvMtXEhPQT1by30GwJFLTZbwm2ByMuasMTTE98EyOG2Gx8GCO98",
+        "width": 1440
+      }],
+      "place_id": "ChIJn5b1yTzyaS4RjFdvJ1UL9hE",
+      "plus_code": {
+        "compound_code": "MRWP+XG Kebagusan, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta, Indonesia",
+        "global_code": "6P58MRWP+XG"
+      },
+      "rating": 4.1,
+      "reference": "ChIJn5b1yTzyaS4RjFdvJ1UL9hE",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 7,
+      "vicinity": "gkm green tower,15th floor, Jalan TB Simatupang No.kav. 89G, RT.12/RW.5, Kalibata"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -6.303116999999999,
+          "lng": 106.8350467
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.301817069708497,
+            "lng": 106.8364370802915
+          },
+          "southwest": {
+            "lat": -6.304515030291502,
+            "lng": 106.8337391197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Siemens",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [{
+        "height": 5455,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106478576421933204416\">selemparan dotcom</a>"
+        ],
+        "photo_reference": "AeJbb3ctLQRr3eEF5m0FXq0c96K9EvNjxtF9MMuocduSUpewT7MjM4MIJjTn_5AL_d6ZHAY9I3tyKOj2lMZyaXmxGGLRajbjL55W_cGe6ZAsRoY4_kdLhB-OSGhZAMfVSdbq_LOW4xJTJnTE7vT9u90J3mDsClBK9H4oaCpBBbFqVm8NstF6",
+        "width": 5544
+      }],
+      "place_id": "ChIJYwoTrXICai4RBmWz8UCwuyU",
+      "plus_code": {
+        "compound_code": "MRWP+Q2 Kebagusan, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta, Indonesia",
+        "global_code": "6P58MRWP+Q2"
+      },
+      "rating": 4.5,
+      "reference": "ChIJYwoTrXICai4RBmWz8UCwuyU",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 172,
+      "vicinity": "Tower F, Jalan TB Simatupang No.Kav. 88, RT.1/RW.2, Kebagusan"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -6.3047222,
+          "lng": 106.8405556
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.303304369708498,
+            "lng": 106.8417997302915
+          },
+          "southwest": {
+            "lat": -6.306002330291503,
+            "lng": 106.8391017697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "PT. Wilson Walton Indonesia",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [{
+        "height": 1255,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117576744035846557705\">Ichsan Hudoyo</a>"
+        ],
+        "photo_reference": "AeJbb3d03tLSpqdZVh69slE8xs0ODeq-FNevh3xbHzLrRknx3JKGrdMYEnhiwPtS-fJOivnYQ1BsKR8FNVDNrWsvAK_v9B_eMM_YidKcbVSI-CsQLfsQiYa-YjmAfFXX6KqviU-f-LLd-GScPYOoikzBNpUmisgDlF2ViK9Kte8pyCi0TMnM",
+        "width": 720
+      }],
+      "place_id": "ChIJoxZcS4HtaS4Rm1_6DvAvm-4",
+      "plus_code": {
+        "compound_code": "MRWR+46 Tanjung Barat, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta, Indonesia",
+        "global_code": "6P58MRWR+46"
+      },
+      "rating": 4.6,
+      "reference": "ChIJoxZcS4HtaS4Rm1_6DvAvm-4",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 56,
+      "vicinity": "Jalan Raya Tanjung Barat No.155, RT.12/RW.4, Tanjung Barat"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -6.306352400000001,
+          "lng": 106.838801
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.305012869708497,
+            "lng": 106.8401879302915
+          },
+          "southwest": {
+            "lat": -6.307710830291501,
+            "lng": 106.8374899697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "PT. Innovasi Sarana Grafindo",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [{
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111516087109177136714\">Innovasi InnoGRAPH</a>"
+        ],
+        "photo_reference": "AeJbb3cIBxCR1jsGqGIHYJ_tfkEiYuTSY5A2ihFbB-0vUjcheRAsaHPZ0TM8YYssv_oQqpXIEgEV74ld5zFAUL2rOdDWxi3BEosHD4ZLhQaV0hzhOunZqzOLup_CGkUpeoqQvKR3cdlVXmWLI9y4ocDs0X-BHMf6l62ZxptxEGnL2OOGJQAm",
+        "width": 3120
+      }],
+      "place_id": "ChIJF_MWyGXxaS4RtRSYpTBF4EM",
+      "plus_code": {
+        "compound_code": "MRVQ+FG Lenteng Agung, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta, Indonesia",
+        "global_code": "6P58MRVQ+FG"
+      },
+      "rating": 4.5,
+      "reference": "ChIJF_MWyGXxaS4RtRSYpTBF4EM",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 85,
+      "vicinity": "Jl. Lenteng Agung Raya No. 15, Jalan Baung No.2, RT.10/RW.1, Lenteng Agung"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -6.312185,
+          "lng": 106.837639
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.310867769708499,
+            "lng": 106.8391988802915
+          },
+          "southwest": {
+            "lat": -6.313565730291502,
+            "lng": 106.8365009197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Cendana Indonesia. PT",
+      "place_id": "ChIJk1zz37XtaS4RqwaZA1FGCRg",
+      "plus_code": {
+        "compound_code": "MRQQ+43 Lenteng Agung, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta, Indonesia",
+        "global_code": "6P58MRQQ+43"
+      },
+      "rating": 5,
+      "reference": "ChIJk1zz37XtaS4RqwaZA1FGCRg",
+      "scope": "GOOGLE",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "JL. Raya No.32, RT.5/RW.1, Lenteng Agung"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -6.3010335,
+          "lng": 106.8341826
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.299510819708499,
+            "lng": 106.8356746802915
+          },
+          "southwest": {
+            "lat": -6.302208780291503,
+            "lng": 106.8329767197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+      "name": "KPP Pratama Jakarta Pancoran",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [{
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110325668165364725204\">Syofwan Alauddin Ridho</a>"
+        ],
+        "photo_reference": "AeJbb3f38sjbN_BwZ5QRcp6ssVCapnrfXNZt_PZKD0I1BcyDUvvfiFQSSltQTXEz3Ml35Jmbe9yfCtK6sMAGe06Ly3txsXmIzKDOulGQFgiv-eMj7k3CcxXNucmHtQK-Oa2goj91BuEtutkMGuijMb_tkpFZevrtg6ZP9f277_V723IQzPuE",
+        "width": 3000
+      }],
+      "place_id": "ChIJbQ_oJAzyaS4Rk2OD_ZhbWjs",
+      "plus_code": {
+        "compound_code": "MRXM+HM Kebagusan, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta, Indonesia",
+        "global_code": "6P58MRXM+HM"
+      },
+      "rating": 4.8,
+      "reference": "ChIJbQ_oJAzyaS4Rk2OD_ZhbWjs",
+      "scope": "GOOGLE",
+      "types": [
+        "accounting",
+        "local_government_office",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 400,
+      "vicinity": "Jl. T.B. Simatupang Kav. 5 Kebagusan Pasar Minggu RT.1/RW.2 RT.1, RT.1/RW.2, Kebagusan"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -6.3036186,
+          "lng": 106.8337956
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.302243919708498,
+            "lng": 106.8351835302915
+          },
+          "southwest": {
+            "lat": -6.304941880291502,
+            "lng": 106.8324855697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Makna.Net",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [{
+        "height": 581,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109506684527079356741\">Sony Novian</a>"
+        ],
+        "photo_reference": "AeJbb3cjpuFPCHvs73qxmc61RUTWtrBHFb0ycLBHaqK-YtDBuzM3mYFogacte2Q6GBXAz-2NaPDc7q4VFO0PrUzZseRnwqeFcdw2PpxsO366XKN6C_aQHucfzEcvDmjTNqDsyvPApfwmfParCqvA9dBclkdrjNSYbOtAuFw5H0ktzwJiOnCb",
+        "width": 1032
+      }],
+      "place_id": "ChIJKwbDy_btaS4RiJpJpA4rZcw",
+      "plus_code": {
+        "compound_code": "MRWM+HG Kebagusan, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta, Indonesia",
+        "global_code": "6P58MRWM+HG"
+      },
+      "reference": "ChIJKwbDy_btaS4RiJpJpA4rZcw",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "RT.6/RW.2, Kebagusan"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -6.3015669,
+          "lng": 106.8374497
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.300283069708498,
+            "lng": 106.8387879802915
+          },
+          "southwest": {
+            "lat": -6.302981030291503,
+            "lng": 106.8360900197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "DPP Partai Keadilan Sejahtera",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [{
+        "height": 3144,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106897343128483331360\">Editor Depok</a>"
+        ],
+        "photo_reference": "AeJbb3dMELC9zgBLhOBnMpDvpObMXRl7pYPBQXCXgMETzTlZ-MOsCt9oit0YbcdV0-TxIepGubaloo3YAELW7DH7ry2t14eJrN6IsMVBv379WjdtCvkJ9O1MpsgaKRjO7g0y1DLuqIB3ErfJXVLUBSAKIsAIRveX3CsKQGusyKV8_T3OHcc3",
+        "width": 4428
+      }],
+      "place_id": "ChIJgwRuT_TtaS4Rrn4ioI3mbRI",
+      "plus_code": {
+        "compound_code": "MRXP+9X Pasar Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta, Indonesia",
+        "global_code": "6P58MRXP+9X"
+      },
+      "rating": 4.5,
+      "reference": "ChIJgwRuT_TtaS4Rrn4ioI3mbRI",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1123,
+      "vicinity": "Jalan TB Simatupang No.82, RT.2/RW.8, Pasar Minggu"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -6.3067681,
+          "lng": 106.8377068
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.305396769708499,
+            "lng": 106.8390774802915
+          },
+          "southwest": {
+            "lat": -6.308094730291503,
+            "lng": 106.8363795197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Kirana School",
+      "photos": [{
+        "height": 2560,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109607835158521938570\">roni winardy</a>"
+        ],
+        "photo_reference": "AeJbb3fMO9kRMhAt5LxTUirQIjfmkV08Axyy8CekgoQ6nybn5eEZYThtsW13OzZxlnIJY_xVkFTbo2h6rplJ-ZSZ42TYsPewDwvu0MjMm5p6xs3Mo_uTplnKtph0Pt--OR2RS5AQJeWClMqCkM6I6desr5ZDrWnm3aMwzPPMnDnCgcFfaGlA",
+        "width": 1920
+      }],
+      "place_id": "ChIJGdnoM9jtaS4R0MpXF7GOD_I",
+      "plus_code": {
+        "compound_code": "MRVQ+73 Lenteng Agung, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta, Indonesia",
+        "global_code": "6P58MRVQ+73"
+      },
+      "rating": 4.7,
+      "reference": "ChIJGdnoM9jtaS4R0MpXF7GOD_I",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "Jalan Baung No.22, RT.3/RW.1, Lenteng Agung"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -6.302468699999999,
+          "lng": 106.8362629
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.300850019708497,
+            "lng": 106.8378041302915
+          },
+          "southwest": {
+            "lat": -6.303547980291501,
+            "lng": 106.8351061697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "GKM Green Tower",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [{
+        "height": 9248,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109908404168491712930\">Maryadi</a>"
+        ],
+        "photo_reference": "AeJbb3c4yxf-OmBOzpQhNSGKHirNNqzHwfFw9UDaVnGx9sz3xleg_vvFfDXicrbNZiDC1mTh8mOTzTTJxgBBafggIUypG6xo-nN1gg3861XPGpMfcTxGxMI9fFhgvqiedAtRzw9ft8wpyJYndP7_1xwQjnoV0Ry7IHagZ5BeTH6dT9merJzv",
+        "width": 6944
+      }],
+      "place_id": "ChIJxxk1I_TtaS4RUmcKstK5Qtc",
+      "plus_code": {
+        "compound_code": "MRXP+2G Kebagusan, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta, Indonesia",
+        "global_code": "6P58MRXP+2G"
+      },
+      "rating": 4.4,
+      "reference": "ChIJxxk1I_TtaS4RUmcKstK5Qtc",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 984,
+      "vicinity": "Jl. TB Simatupang No.Kav. 89G, RT.10/RW.2, Kebagusan"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -6.3058855,
+          "lng": 106.838933
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.304549819708497,
+            "lng": 106.8403432802915
+          },
+          "southwest": {
+            "lat": -6.307247780291502,
+            "lng": 106.8376453197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "PT. Yasa Patria Perkasa",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [{
+        "height": 600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101768087568812597586\">PT. Yasa Patria Perkasa</a>"
+        ],
+        "photo_reference": "AeJbb3dVkqcD2r7lH5hxV-lRGdpCWJYjue5koCcZbV_RCCW7OX2u2Lm0oMSBJj89jxOJ4WD3ScAipq_3lcHWs2U3ZO4zh_bmuYYMjSzuJ4XXigs5YTWYfZVvmfIxqZvNYUloBcvFrwmdOVNrXnBWltn4cTWLPACbwRWDJnEvqcJAcrQfeG0v",
+        "width": 600
+      }],
+      "place_id": "ChIJ30enXOztaS4RfZypKyHyCpk",
+      "plus_code": {
+        "compound_code": "MRVQ+JH Lenteng Agung, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta, Indonesia",
+        "global_code": "6P58MRVQ+JH"
+      },
+      "rating": 4.6,
+      "reference": "ChIJ30enXOztaS4RfZypKyHyCpk",
+      "scope": "GOOGLE",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 49,
+      "vicinity": "10, Jalan Lenteng Agung Raya No.18, RT.10/RW.1, Lenteng Agung"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": -6.2614927,
+          "lng": 106.8105998
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.202698957543928,
+            "lng": 106.8668439679273
+          },
+          "southwest": {
+            "lat": -6.365514057055148,
+            "lng": 106.737314930189
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Jakarta Selatan",
+      "photos": [{
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113433338934468447947\">NUSG GOMBO</a>"
+        ],
+        "photo_reference": "AeJbb3cQWvVfy8Yb7QOycOVSSDz85Ac1Ff1Rn5hVvAKlDZOuGxvTwh8dpucpKxy1YTuuKXnQDmo--z5DHVTrAr8SY37a1GcnOgGOI-vRnuNh4MaR2BfEBLDa7Dn_tlRjQj5himB5fpZfoYnflj78H4clSrdi_UXA5T8F0ioEvDFvPHWK1wpY",
+        "width": 720
+      }],
+      "place_id": "ChIJs7AiJOzxaS4RAk1AR_7QoDk",
+      "reference": "ChIJs7AiJOzxaS4RAk1AR_7QoDk",
+      "scope": "GOOGLE",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "vicinity": "Jakarta Selatan"
+    }
+  ],
+  "status": "OK"
+}
